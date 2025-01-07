@@ -15,3 +15,4 @@ Edit the "main.tex" file:
 Adding bibliography entries:
 - Add bibtex entry to the main.bib file
 - Add a \cite{XYZ} command to your main.tex file
+- xcc
